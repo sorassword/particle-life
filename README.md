@@ -205,7 +205,7 @@ Development and CI:
 - **Documentation:** wrote the initial project README and later the Vispy docs, architecture diagram and run instructions
 - **Integration:** reviewed and merged feature branches (UI buttons, profiling & Pygame verification, docs fine-tuning)
 
-> Original repository: [41yannik/Particle-Life](https://github.com/41yannik/Particle-Life) – team project, Data Science & AI Infrastructures, HSD Düsseldorf (winter 2025/26).
+> Original repository: [41yannik/Particle-Life](https://github.com/41yannik/Particle-Life). Team project, Data Science & AI Infrastructures, HSD Düsseldorf (winter 2025/26).
 
 ## License
 
