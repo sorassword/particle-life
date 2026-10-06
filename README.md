@@ -198,12 +198,14 @@ Development and CI:
   * **Wayan Schmidt**
   * **Azad Aygün**
 
-### My role (Yannik Huber)
+### My role (Arian Sharifi-Tabar)
 
-- set up the repository, the `ParticleSystem` core on NumPy arrays and the interaction matrix
-- central configuration management (`config.py`), `pyproject.toml` packaging and CI fixes
-- unit tests for simulation and interaction matrix
-- English docstrings, final documentation and this README
+- **Testing & QA:** built the pytest suite and fixtures (friction, boundary wrapping, particle movement) and raised coverage with viewer/main smoke tests behind a CI coverage gate
+- **Quality gates:** fixed lint issues and maintained the ruff/CI setup
+- **Documentation:** wrote the initial project README and later the Vispy docs, architecture diagram and run instructions
+- **Integration:** reviewed and merged feature branches (UI buttons, profiling & Pygame verification, docs fine-tuning)
+
+> Original repository: [41yannik/Particle-Life](https://github.com/41yannik/Particle-Life) – team project, Data Science & AI Infrastructures, HSD Düsseldorf (winter 2025/26).
 
 ## License
 
